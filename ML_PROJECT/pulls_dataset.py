@@ -8,7 +8,7 @@ import time
 # List of API keys
 API_KEYS = [
     """
-    API keys like  AIzaSyAj6ZkI_XveQVg1rWNqjrcEg4KJl2WxYjA
+    API keys 
     """
 ]
 
